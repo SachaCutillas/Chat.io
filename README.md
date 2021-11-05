@@ -20,7 +20,7 @@ Ouvrer ensuite l’application Android dédiée et appuyer sur « Démarrer le 
 
 ## Fichiers
 
-Le code à téléverser sur l'ESP32 se trouve dans le dossier chatio. Le code complet pour l'application Android est dans le fichier .zip mais l'application peut être tester en utilisant le fichier apk via un émulateur Android.
+Le code à téléverser sur l'ESP32 se trouve dans le dossier chatio. Le code complet pour l'application Android est dans le fichier .zip mais l'application peut être testée en utilisant le fichier apk via un émulateur Android.
 
 ## Compatibilité
 
