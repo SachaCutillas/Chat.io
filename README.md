@@ -8,8 +8,8 @@ Il suffit alors de créer un réseau de carte ESP32 communiquant sur la même ad
 
 Vous pouvez également contrôler l’allumage de la led. Pour cela taper « /help » dans le chat pour obtenir la commande.
 
-Pour commencer, connectez vous au point d’accès Chat.io en WiFi.
-Ouvrez ensuite l’application Android dédiée et appuyez sur « Démarrer le Chat ».
+Pour commencer, connecter vous au point d’accès Chat.io en WiFi.
+Ouvrer ensuite l’application Android dédiée et appuyer sur « Démarrer le Chat ».
 
 ## Liste des commandes
 
