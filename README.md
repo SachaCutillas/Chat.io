@@ -11,3 +11,9 @@ Vous pouvez également contrôler l’allumage de la led. Pour cela taper « /h
 Pour commencer, connectez vous au point d’accès Chat.io en WiFi.
 Ouvrez ensuite l’application Android dédiée et appuyez sur « Démarrer le Chat ».
 
+## Liste des commandes
+
+* /led ON : allumer la led de l'ESP32
+* /led OFF : éteindre la led de l'ESP32
+* c : commande à écrire dans le moniteur série de la carte pour supprimer tous les messages
+
