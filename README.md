@@ -17,3 +17,6 @@ Ouvrez ensuite l’application Android dédiée et appuyez sur « Démarrer le 
 * /led OFF : éteindre la led de l'ESP32
 * c : commande à écrire dans le moniteur série de la carte pour supprimer tous les messages
 
+## Fichiers
+
+Le code à téléverser sur l'ESP32 se trouve dans le dossier chatio. Le code complet pour l'application Android est dans le fichier .zip mais l'application peut être tester en utilisant le fichier apk via un émulateur Android.
