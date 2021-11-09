@@ -3,7 +3,7 @@ Projet pour le cours IA et Système Embarqué
 
 ## Bienvenue sur Chat.io
 
-Chat.io est un chatroom fonctionnant sans connexion internet. Le but est de pouvoir développer une application permettant aux personnes habitant dans des zones sans accés internet de communiquer entre elles.
+Chat.io est un chatroom fonctionnant sans connexion internet. Le but est de pouvoir développer une application permettant aux personnes habitant dans des zones sans accés internet de communiquer entre elles. C'est une application qui permet aussi de contrôler de manière très simple des objets connectés en local via le réseau WiFi de la carte.
 Il suffit alors de créer un réseau de carte ESP32 communiquant sur la même adresse IP.
 
 Vous pouvez également contrôler l’allumage de la led. Pour cela taper « /help » dans le chat pour obtenir la commande.
